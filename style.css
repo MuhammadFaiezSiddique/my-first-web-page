@@ -140,7 +140,7 @@ ul li a:hover{
     height: 380px;
     background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
     position: absolute;
-    top: 30px;
+    top: 1px;
     left: 945px;
     border-radius: 10px;
     padding: 25px;
